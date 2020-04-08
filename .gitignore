@@ -1,0 +1,10 @@
+# User specific files
+*.suo
+*.user
+
+# Build files
+obj
+bin
+
+# VS Code
+.vs

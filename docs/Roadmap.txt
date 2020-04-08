@@ -1,0 +1,13 @@
+Calculated Timers
+- Display Targets and Rates
+
+GUI:
+- Currently working on: should be populated if you click on a timer with one already specified
+- Can add/edit/delete Timer Groups
+
+Exports
+- A export in the format needed for my Billing/Invoicing
+
+Timer file
+- Archive every year
+
