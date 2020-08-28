@@ -1,6 +1,7 @@
 # User specific files
 *.suo
 *.user
+.DS_Store
 
 # Build files
 obj
